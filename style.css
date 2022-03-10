@@ -38,3 +38,9 @@ body {
     color: #555;
     font-size: 14px;
 }
+
+@media (max-width: 600px) {
+  .key {
+    content: "Open website on your computer";
+  }
+}
